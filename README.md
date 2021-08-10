@@ -9,7 +9,7 @@ This is a simple project done using javascript that makes you get a new password
 To clone this project :
 
 ```bash
-git clone "https://github.com/sudarsankumar/password-generator-of-fifferent-length-and-combination-using-html-css-js.git"
+git clone "https://github.com/sudarsankumar/password-generator-of-different-length-and-combination-using-html-css-js.git"
 ```
 
 ## demo link
